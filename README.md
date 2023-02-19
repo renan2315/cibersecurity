@@ -1,2 +1,0 @@
-# cibersecurity
- cibersecurity 
